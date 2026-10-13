@@ -32,6 +32,12 @@ export default function Page() {
   return (
     <main className={styles.main} data-lk-theme="default">
       <div className={styles.tabContent}>
+     <div>
+      <h1 style={{ margin: 0 }}>Meet Hub</h1>
+      <p>
+        DDiscover the power of seamless communication with Meet Hub, your ultimate video conferencing solution. Connect with colleagues, friends, and family effortlessly, no matter where you are. Experience crystal-clear audio and high-definition video quality, ensuring every conversation feels personal and engaging. With Meet Hub, collaboration has never been easier or more efficient. Join us today and elevate your virtual meetings to the next level.
+      </p>
+     </div>
         <p style={{ margin: 0 }}>Try Meet Hub for free.</p>
 
         <button
